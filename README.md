@@ -23,5 +23,3 @@
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/667523399219675139/1089259922576920818/download20230306133058.png">
 </div>
 
-![snake gif](https://github.com/JaineSantos0/JaineSantos0/blob/output/github-contribution-grid-snake.svg)
-
