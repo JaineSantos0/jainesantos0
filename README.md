@@ -29,3 +29,4 @@ Venho de uma transição de carreira, trabalhei no comércio onde adquiri habili
 </a>
 </div>
 
+![Snake animation](https://github.com/JaineSantos0/JaineSantos0/blob/output/github-contribution-grid-snake.svg)
