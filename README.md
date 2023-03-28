@@ -1,13 +1,13 @@
 <h2> 👩‍💻 Olá, Prazer meu nome é Jaine e Sejam Bem vindos ao meu GitHub 👋 </h2>
 <h4> ||Desenvolvedora Web Full Stack Java|| </h4>
 <div>
-  <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=JaineSantos0&show_icons=true,css&layout=compact&theme=nightowl" />
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaineSantos0&layout=compact&theme=nightowl" />
+  <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=JaineSantos0&show_icons=true,css&layout=compact&theme=algolia" />
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaineSantos0&layout=compact&theme=algolia" />
 </div>
 
 <h3> Sobre mim </h3>
 <h4>
-Venho de uma transição de carreira, trabalhei no comércio onde adquiri habilidades como trabalho em equipe, comunicação e orientação ao detalhe. Nos cursos da área da tecnologia que fiz, adquiri Hard Skills como Java, Html, CSS/Bootstrap, Git e GitHub, Banco de Dados (Mysql), Spring e metodologia Ágil(Scrum). Tenho facilidade em resolução de problemas e propor soluções agéis, trabalho em equipe tendo uma comunicação assertiva e proeficiência na organização e divisão de tarefas, me empenho em aprender novas tecnologias
+Venho de uma transição de carreira, trabalhei no comércio onde adquiri habilidades como trabalho em equipe, comunicação e orientação ao detalhe. Nos cursos da área da tecnologia que fiz, adquiri Hard Skills como Java, Html, CSS/Bootstrap, Git e GitHub, Banco de Dados (Mysql), Spring e metodologia Ágil(Scrum). Tenho facilidade em resolução de problemas e propor soluções agéis, trabalho em equipe tendo uma comunicação assertiva e proeficiência na organização e divisão de tarefas, me empenho em aprender novas tecnologias.
 </h4>
 
 
