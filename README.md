@@ -32,8 +32,8 @@ organização e divisão de tarefas, me empenho em aprender novas tecnologias.
 <h3 align="center"> Contatos </h3>
 <div align="center">
   <a href = "mailto:jainejosiane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jainejosiane" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
+  <a href="https://www.linkedin.com/in/jainejosiane" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  ![Snake animation](https://github.com/JaineSantos0/JaineSantos0/blob/output/github-contribution-grid-snake.svg)>
+  
 </div>
-
-![Snake animation](https://github.com/JaineSantos0/JaineSantos0/blob/output/github-contribution-grid-snake.svg)
