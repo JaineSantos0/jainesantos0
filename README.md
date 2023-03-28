@@ -19,7 +19,7 @@ Venho de uma transição de carreira, trabalhei no comércio onde adquiri habili
   <img align="center" alt="Jaine-BOOTSTRAP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Jaine-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Jaine-SPRING" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/667523399219675139/1089259922576920818/download20230306133058.png">
+  <img align="right" alt="jaine-pic" height="150" style="border-radius:50px;"  src="https://cdn.discordapp.com/attachments/667523399219675139/1089259922576920818/download20230306133058.png">
 </div>
 
 <h3> Contatos </h3>
