@@ -1,15 +1,19 @@
-<h2> 👩‍💻 Olá, Prazer meu nome é Jaine e Sejam Bem vindos ao meu GitHub 👋 </h2>
-<h4> ||Desenvolvedora Web Full Stack Java|| </h4>
-<div>
+<h2 align="center" > 👩‍💻 Olá, Prazer meu nome é Jaine e Sejam Bem vindos ao meu GitHub 👋 </h2>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Web+Full+Stack+Java!)](https://git.io/typing-svg)
+
+<div align="center">
   <img align="left" width="400px" src="https://github-readme-stats.vercel.app/api?username=JaineSantos0&show_icons=true,css&layout=compact&theme=algolia" />
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaineSantos0&layout=compact&theme=algolia" />
 </div>
 
 <h3> Sobre mim </h3>
 <h4>
-Venho de uma transição de carreira, trabalhei no comércio onde adquiri habilidades como trabalho em equipe, comunicação e orientação ao detalhe. Nos cursos da área da tecnologia que fiz, adquiri Hard Skills como Java, Html, CSS/Bootstrap, Git e GitHub, Banco de Dados (Mysql), Spring e metodologia Ágil(Scrum). Tenho facilidade em resolução de problemas e propor soluções agéis, trabalho em equipe tendo uma comunicação assertiva e proeficiência na organização e divisão de tarefas, me empenho em aprender novas tecnologias.
+Venho de uma transição de carreira, trabalhei no comércio onde adquiri habilidades como trabalho em equipe, comunicação e orientação ao detalhe. 
+Nos cursos da área da tecnologia que fiz, adquiri Hard Skills como Java, Html, CSS/Bootstrap, Git e GitHub, Banco de Dados (Mysql), Spring e metodologia 
+Ágil(Scrum). Tenho facilidade em resolução de problemas e propor soluções agéis, trabalho em equipe tendo uma comunicação assertiva e proeficiência na 
+organização e divisão de tarefas, me empenho em aprender novas tecnologias.
 </h4>
-
 
 <h3> Linguagens e Tecnologias </h3>
 <div style="display: inline_block"><br>
@@ -24,7 +28,7 @@ Venho de uma transição de carreira, trabalhei no comércio onde adquiri habili
 
 <h3> Contatos </h3>
 <div>
-  <a href = "mailto:jainejosiane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jainejosiane@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jainejosiane" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 </div>
