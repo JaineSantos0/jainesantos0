@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Web+Full+Stack+Java!)](https://git.io/typing-svg)
 
 <div align="center">
-  <img align="center" width="400x" src="https://github-readme-stats.vercel.app/api?username=JaineSantos0&show_icons=true&&layout=compact&hide_border=true&theme=algolia" />
-  <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaineSantos0&layout=compact&hide_border=true&theme=algolia" />
+  <img align="center" width="43%" src="https://github-readme-stats.vercel.app/api?username=JaineSantos0&show_icons=true&&layout=compact&hide_border=true&theme=algolia" />
+  <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaineSantos0&layout=compact&hide_border=true&theme=algolia" />
   <img align="right" alt="jaine-pic" height="200";" src="https://cdn.discordapp.com/attachments/667523399219675139/1089259922576920818/download20230306133058.png">
 </div>
 
