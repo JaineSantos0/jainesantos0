@@ -13,10 +13,13 @@
 <h3 align="center"> Sobre mim </h3>
 <div align="center">
 <p>
-Venho de uma transição de carreira, trabalhei no comércio onde adquiri habilidades como trabalho em equipe, comunicação e orientação ao detalhe. 
-Nos cursos da área da tecnologia que fiz, adquiri Hard Skills como Java, Html, CSS/Bootstrap, Git e GitHub, Banco de Dados (Mysql), Spring e metodologia 
-Ágil(Scrum). Tenho facilidade em resolução de problemas e propor soluções agéis, trabalho em equipe tendo uma comunicação assertiva e proeficiência na 
-organização e divisão de tarefas, me empenho em aprender novas tecnologias.
+Venho de uma transição de carreira, trabalhei no comércio onde adquiri habilidades como
+trabalho em equipe, comunicação e orientação ao detalhe. Nos cursos da área da tecnologia
+que fiz, adquiri Hard Skills como Java, Html, CSS/Bootstrap, Git/GitHub, Banco de Dados
+(Mysql), Spring, Javascript/Typescript, React e metodologia Ágil (Scrum). Tenho facilidade em
+resolução de problemas e propor soluções agéis, trabalho em equipe tendo uma comunicação
+assertiva e proeficiência na organização e divisão de tarefas, me empenho em aprender novas
+tecnologias.
 </p>
 </div>
 
