@@ -13,36 +13,11 @@
 <h3 align="center"> Sobre mim </h3>
 <div align="center">
 <p>
-Sou graduanda em Análise e Desenvolvimento de Sistemas e trago comigo uma trajetória
-marcada pelo amor à aprendizagem e pela resolução de desafios.
+Venho de uma transição de carreira do comércio para a tecnologia, trazendo comigo uma sólida experiência em habilidades essenciais como trabalho em equipe, comunicação eficaz e orientação aos detalhes. Na área de tecnologia, adquiri competências técnicas, incluindo Java, Git (GitHub e Gitlab), Banco de Dados (MySQL, Oracle e PostgreSQL), Spring, JavaScript/TypeScript, React, testes unitários em Java (JUnit 4, TDD e Mockito) e metodologia Ágil (Scrum). Possuo certificação em Scrum Fundamentals e AWS Cloud Practitioner.
 
-Desde a época escolar, sempre fui aquela aluna que adorava absorver novos
-conhecimentos, tanto nas disciplinas convencionais quanto na matemática, e compartilhar
-esse conhecimento com todos ao meu redor. A busca por desafios era algo que me enchia
-de alegria e animação, especialmente quando se tratava de resolver problemas complexos.
-No entanto, meus caminhos me levaram a trabalhar no comércio, mais especificamente no
-ramo farmacêutico, onde adquiri habilidades valiosas, como trabalho em equipe,
-comunicação e orientação aos detalhes.
+Atuei como estagiária em uma das Big Four, no setor de auditoria e consultoria, onde fui responsável pelo desenvolvimento de novas funcionalidades no back-end utilizando Java e Spring Boot e no front-end utilizando TypeScript, React e Low-Code Appian. Consulta a bancos de dados Oracle utilizando SQL pela plataforma DBeaver. Elaboração, documentação via Confluence e teste via Postman de casos de uso.
 
-Foi através do meu esposo que tive o primeiro contato com a tecnologia, e ao iniciar meus
-estudos nessa área, percebi que esse era o caminho que eu realmente queria seguir. Desde
-então, tenho me dedicado intensamente a aprofundar meus conhecimentos e habilidades
-nesse campo em constante evolução.
-
-No meu trajeto até aqui, tive a oportunidade de participar do bootcamp da Generation Brasil, onde
-vivenciei um ambiente de trabalho dinâmico, realizando projetos tanto individuais como em
-equipe. Destaco o projeto integrador, no qual desenvolvemos um e-commerce de
-eletrodomésticos com foco na eficiência energética, alinhado com o objetivo de
-desenvolvimento sustentável 7 - Energia limpa e acessível a todos da ONU. Utilizamos as
-tecnologias Java com o framework Spring no backend e Typescript/Javascript com o
-framework React no frontend. 
-
-Recentemente, participei da turma AWS re/Start da Escola da nuvem onde aprendi sobre vários serviços da AWS e aprimorei tanto minhas habilidades técnicas quanto comportamentais por meio das enriquecedoras aulas de soft skills.
-
-Todo conhecimento adquirido me permitiu expandir ainda mais meu horizonte de habilidades e
-complementar meu perfil profissional. Sinto-me preparada e extremamente ansiosa para
-aplicar meu conhecimento técnico, meu amor pela aprendizagem e minha experiência no
-enfrentamento de desafios em projetos empolgantes.
+Estou buscando novas oportunidades para desenvolver ainda mais minhas habilidades e contribuir em um ambiente inovador que ofereça desafios que me permitam sair da minha zona de conforto.
 </p>
 </div>
 
