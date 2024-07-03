@@ -5,7 +5,7 @@
 <div align="center">
   <img align="center" width="43%" src="https://github-readme-stats.vercel.app/api?username=JaineSantos0&show_icons=true&&layout=compact&hide_border=true&theme=algolia" />
   <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaineSantos0&layout=compact&hide_border=true&theme=algolia" />
-  <img align="right" alt="jaine-pic" height="150px";" src="https://cdn.discordapp.com/attachments/667523399219675139/1089259922576920818/download20230306133058.png">
+ <! – – <img align="right" alt="jaine-pic" height="150px";" src="https://cdn.discordapp.com/attachments/667523399219675139/1089259922576920818/download20230306133058.png"> 
 </div>
 
 <br>
