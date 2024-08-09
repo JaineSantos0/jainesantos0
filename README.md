@@ -17,7 +17,7 @@ Venho de uma transição de carreira do comércio para a tecnologia, trazendo co
 </div>
 
 <div align="center">
-  <h3>Linguagens e Tecnologias</h3> <br>
+  <h3>Linguagens e Tecnologias</h3>
   <img alt="Jaine-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Jaine-JAVASCRIPT" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">                             <img alt="Jaine-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="Jaine-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
