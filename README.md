@@ -14,11 +14,6 @@
 <div align="center">
 <p>
 Venho de uma transição de carreira do comércio para a tecnologia, trazendo comigo uma sólida experiência em habilidades essenciais como trabalho em equipe, comunicação eficaz e orientação aos detalhes. Na área de tecnologia, adquiri competências técnicas, incluindo Java, Git (GitHub e Gitlab), Banco de Dados (MySQL, Oracle e PostgreSQL), Spring, JavaScript/TypeScript, React, testes unitários em Java (JUnit 4, TDD e Mockito) e metodologia Ágil (Scrum). Possuo certificação em Scrum Fundamentals e AWS Cloud Practitioner.
-
-Atuei como estagiária em uma das Big Four, no setor de auditoria e consultoria, onde fui responsável pelo desenvolvimento de novas funcionalidades no back-end utilizando Java e Spring Boot e no front-end utilizando TypeScript, React e Low-Code Appian. Consulta a bancos de dados Oracle utilizando SQL pela plataforma DBeaver. Elaboração, documentação via Confluence e teste via Postman de casos de uso.
-
-Estou buscando novas oportunidades para desenvolver ainda mais minhas habilidades e contribuir em um ambiente inovador que ofereça desafios que me permitam sair da minha zona de conforto.
-</p>
 </div>
 
 <div align="center">
