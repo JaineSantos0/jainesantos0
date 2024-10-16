@@ -1,6 +1,6 @@
 <h2 align="center" > 👩‍💻 Olá, Prazer meu nome é Jaine e Sejam Bem vindos ao meu GitHub 👋 </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Web+Full+Stack+Java!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Desenvolvedora+Back-end+Java!)](https://git.io/typing-svg)
 
 <div align="center">
   <img align="center" width="43%" src="https://github-readme-stats.vercel.app/api?username=JaineSantos0&show_icons=true&&layout=compact&hide_border=true&theme=algolia" />
